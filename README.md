@@ -3,4 +3,11 @@ Repositório criado na aula de PI
 
 ## minha lista de compras 😄
 - pão
-- -macarrão
+- macarrão
+- molho de tomate 
+- carne moída
+- batata
+- sorvete 
+- pizza
+- coca cola
+- banana
